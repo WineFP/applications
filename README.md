@@ -5,7 +5,7 @@ A collection of flatpak manifest for building Microsoft Windows applications wit
 Remember run all `flatpak` commands as a user, root and `sudo` are not needed.
 
 ### Sdk & Platform
-First you need to build and install the wineFP Sdk & Platform. You can do so at [wineFP/wineFP-sdk-images](https://github.com/WineFP/wineFP-sdk-images).
+First you need to build and install the wineFP Sdk & Platform. You can do so at [wineFP/wineFP-sdk-images](https://github.com/WineFP/wineFP-sdk).
 
 Some applications use the `stable` branch of `wineFP` (which uses stable `wine`) while others use the `staging` branch of `wineFP` (which uses `wine-staging`). Build the branches you'll need.
 
